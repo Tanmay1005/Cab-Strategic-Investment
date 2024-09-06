@@ -5,7 +5,7 @@ XYZ, a private investment firm, was planning to expand its portfolio by investin
 
 I was brought in to analyze the available data, generate insights, and ultimately recommend which company would provide the highest return on investment. My goal was to help XYZ answer critical business questions like:
 
-*Which company is more profitable?
+* Which company is more profitable?
 
 * Which company has a more loyal customer base?
 
